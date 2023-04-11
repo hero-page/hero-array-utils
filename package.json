@@ -1,0 +1,35 @@
+{
+  "name": "@hero-page/hero-array-utils",
+  "version": "1.0.0",
+  "description": "A collection of functions to enhance array manipulation, such as sorting, filtering, mapping, and reducing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {},
+  "keywords": [
+    "array",
+    "filter",
+    "sort",
+    "map",
+    "reduce",
+    "manipulation",
+    "grep",
+    "mergeSort",
+    "collection",
+    "utils",
+    "enhance",
+    "handle",
+    "callback",
+    "function",
+    "large",
+    "input",
+    "nested",
+    "circular",
+    "structures",
+    "level"
+  ],
+  "author": "Sam Chahine",
+  "license": "MIT",
+  "dependencies": {}
+}
